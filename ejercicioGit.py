@@ -1,1 +1,1 @@
-print("Ejercicio GitHu")
+print("Ejercicio GitHub")
