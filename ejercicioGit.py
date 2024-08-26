@@ -1,2 +1,2 @@
-print("Ejercicio GitHub")
+print("Ejercicio GitHub conflictos")
 print("Prueba Commit")
